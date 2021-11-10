@@ -1,0 +1,2 @@
+language = "c++"
+run = "g++ demo.cpp && ./a.out"
