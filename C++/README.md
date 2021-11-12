@@ -14,6 +14,7 @@ _Note: Lines starting with `//` are single line comments while blocks encompasse
 4|Blood Bank|A program to print whether or not the blood of two people is transfusable by taking blood group as input from user.|`nested if-else` `Dealing with char`|004-BloodBank.cpp
 5|Bakery|To create a program for a bakery to display their menu and give order number to the user according along with choice.|`for loop` `switch-case`|005-Bakery.cpp
 6|Looping Calculator|To create a calculator which can add/subtract/multiply/divide in a loop|`while loop` `switch-case`|006-LoopingCalculator.cpp
+7|Fibinacci Series|To write a program which can work fine the nth term of the Fibonacci Sequence.|`Basic DSA` `while-loop`|007-FibonacciEasy.cpp
 
 
 ---
