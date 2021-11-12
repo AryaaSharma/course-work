@@ -1,2 +1,2 @@
 language = "c++"
-run = "g++ demo.cpp && ./a.out"
+run = "g++ C++/006-LoopingCalculator.cpp -o 'OutputFile.out' && ./OutputFile.out"
