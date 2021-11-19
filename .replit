@@ -1,2 +1,2 @@
-language = "c++"
-run = "g++ C++/006-LoopingCalculator.cpp -o 'OutputFile.out' && ./OutputFile.out"
+language = "c"
+run = "g++ C++/008-Arrays.cpp -o 'OutputFile.out' && ./OutputFile.out"

@@ -1,3 +1,5 @@
+// Looping Calculator
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -59,6 +61,5 @@ int main() {
     cout<<"Do you want to continue? (y/n) ";
     cin>>choice;
   }
-
   return 0;
 }

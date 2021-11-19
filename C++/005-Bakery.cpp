@@ -1,10 +1,13 @@
-// Blood Bank
+// Bakery
+
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
+  
   int maxCustomers;
   cout<<"Enter maximum number of customers in the day:";
   cin>>maxCustomers;
+
   for (int i=1; i<=maxCustomers; i++){
     int choice;
 
