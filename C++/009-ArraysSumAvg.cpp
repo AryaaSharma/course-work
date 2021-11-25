@@ -1,0 +1,4 @@
+/*
+Write a program to create an integer array and input data into array from user. Find the sum and mean average of the elements in the array.
+
+*/

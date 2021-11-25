@@ -1,2 +1,1 @@
-language = "c"
-run = "g++ C++/008-Arrays.cpp -o 'OutputFile.out' && ./OutputFile.out"
+run = "g++ Assignment/trial.c -o 'OutputFile.out' && ./OutputFile.out"
